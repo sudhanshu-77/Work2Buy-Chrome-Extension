@@ -97,17 +97,16 @@ We look forward to your contributions!
 
 ## Results:
 
-
-## Amazon:
+### Amazon:
 ![Output Screen shot](assets/img-2.png)
 
-## Myntra:
+### Myntra:
 ![Output Screen shot](assets/img-3.png)
 
-## Amazon:
+### Amazon:
 ![Output Screen shot](assets/img-1.png)
 
-## Myntra:
+### Myntra:
 ![Output Screen shot](assets/img-4.png)
 
 <hr>
