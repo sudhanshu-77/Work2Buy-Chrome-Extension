@@ -6,7 +6,7 @@
 <a><img src="https://img.shields.io/github/forks/sudhanshu-77/Work2Buy-Chrome-Extension"></a>
 <a><img src="https://img.shields.io/github/stars/sudhanshu-77/Work2Buy-Chrome-Extension"></a>
   
-[![](https://visitcount.itsvg.in/api?id=sudhanshu-77-Work2Buy-Chrome-Extension&label=Profile%20Views&color=701A75&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sudhanshu-77-Work2Buy-Chrome-Extension&label=Profile%20Views&color=701A65&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 <hr>
@@ -93,6 +93,23 @@ We welcome contributions to enhance the functionality and features of **Work2Buy
 11. Submit a pull request with a description of your changes.
 
 We look forward to your contributions!
+<hr>
+
+## Results:
+
+
+## Amazon:
+![Output Screen shot](assets/img-2.png)
+
+## Myntra:
+![Output Screen shot](assets/img-3.png)
+
+## Amazon:
+![Output Screen shot](assets/img-1.png)
+
+## Myntra:
+![Output Screen shot](assets/img-4.png)
+
 <hr>
 
 ## License
