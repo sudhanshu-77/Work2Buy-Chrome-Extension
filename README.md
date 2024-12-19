@@ -108,7 +108,11 @@ For any questions or feedback, please contact at [Link](sudhanshu77.dev@gmail.co
 
 
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<div align="center">
+<p align="center">
+  <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
 
 
 
