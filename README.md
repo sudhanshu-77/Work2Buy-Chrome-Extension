@@ -92,7 +92,7 @@ We welcome contributions to enhance the functionality and features of **Work2Buy
     
 11. Submit a pull request with a description of your changes.
 
-We look forward to your contributions!
+We look forward to your contributions! 🫱🏻‍🫲🏼
 <hr>
 
 ## Results:
