@@ -11,12 +11,14 @@
 </div>
 <hr>
   
-## Features Offers:
+## Features Offer:
 - **Price Calculation**: Calculate the number of days needed to work to buy an item based on daily earnings.
 - **Multi-Platform Support**: Automatically detects and extracts prices from platforms like Amazon, Flipkart, Myntra, and eBay.
 - **Currency Conversion**: Converts item prices to the user's preferred currency using real-time exchange rates.
 - **Dark Mode**: Offers a dark mode option for a better user experience during night-time browsing.
 - **Social Sharing**: Allows users to share product links and deals via social media or email.
+  
+<hr>
 
 ## Technologies Used
 
@@ -25,10 +27,12 @@
 - **Chrome Extensions API**: Facilitates interaction with browser tabs and manages extension features.
 - **Open Exchange Rates API**: Fetches real-time currency exchange rates.
 
+<hr>
 
 ## How to Use
 1. **Clone the Repository:**:
-   git clone https://github.com/yourusername/work2buy.git
+   ```bash
+   git clone https://github.com/sudhanshu-77/Work2Buy-Chrome-Extension.git
  
 
 3. **Open Chrome Extensions**:  
@@ -42,6 +46,7 @@
    - Click on the **Work2Buy** icon in the Chrome toolbar.  
    - Enter your daily earnings and select your preferred currency.  
    - Navigate to a product page on a supported e-commerce platform and click "Calculate".
+<hr>
 
 ## Future Aspects
 
@@ -50,6 +55,7 @@
 - **Comparison Shopping**: Compare prices of the same product across different platforms to find the best deal.
 - **Discount and Coupon Finder**: Automatically search for and apply discount codes at checkout.
 - **User Reviews and Ratings**: Integrate user reviews and ratings to assist in purchasing decisions.
+<hr>
 
 ## Contributing
 
@@ -63,14 +69,16 @@ We welcome contributions to enhance the functionality and features of **Work2Buy
 6. Submit a pull request with a description of your changes.
 
 We look forward to your contributions!
+<hr>
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<hr>
 
 ## Contact
 
-For any questions or feedback, please contact sudhanshu77.dev@gmail.com.
+For any questions or feedback, please contact at [Link](sudhanshu77.dev@gmail.com.). 
 
 
 
