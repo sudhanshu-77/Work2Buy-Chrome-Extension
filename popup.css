@@ -113,9 +113,9 @@ body.dark-mode p {
 }
 
 #darkModeToggle, #shareBtn {
-  cursor: pointer; /* Add pointer cursor for buttons */
+  cursor: pointer; 
 }
 
 #darkModeToggle:hover, #shareBtn:hover {
-  background-color: #ffffff; /* Add hover effect for buttons */
+  background-color: #ffffff; 
 }
