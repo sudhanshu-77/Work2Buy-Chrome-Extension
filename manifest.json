@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Work2Buy",
+  "version": "1.0",
+  "author":"Sudhanshu Tripathi",
+  "description": "Calculate days needed to work based on earnings and item price.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/logo.png",
+      "48": "assets/logo.png",
+      "128": "assets/logo.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.in/*",
+        "https://www.amazon.com/*",
+        "https://www.flipkart.com/*",
+        "https://www.myntra.com/*",
+        "https://www.ebay.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
