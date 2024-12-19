@@ -11,7 +11,7 @@
 </div>
 <hr>
   
-## Features:
+## Features Offers:
 - **Price Calculation**: Calculate the number of days needed to work to buy an item based on daily earnings.
 - **Multi-Platform Support**: Automatically detects and extracts prices from platforms like Amazon, Flipkart, Myntra, and eBay.
 - **Currency Conversion**: Converts item prices to the user's preferred currency using real-time exchange rates.
@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [your email or contact info here].
+For any questions or feedback, please contact sudhanshu77.dev@gmail.com.
 
 
 
